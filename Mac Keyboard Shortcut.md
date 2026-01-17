@@ -128,7 +128,7 @@
 | Shortcut           | Action        |
 | ------------------ | ------------- |
 | **— Window —**     |               |
-| Ctrl + Cmd + ↑ / ↓ | Resize window |
+| Ctrl + Cmd + ↑ / ↓ | Resize VS terminal space |
 | Ctrl + Cmd + F     | Full screen   |
 | **— View —**       |               |
 | Cmd + + / -        | Zoom in / out |
