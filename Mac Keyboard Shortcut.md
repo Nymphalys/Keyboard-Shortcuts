@@ -56,7 +56,8 @@
 | Cmd + F                 | Find in file         |
 | Select the word & Cmd + F| Find with the same slected portion         |
 | Cmd + Shift + F         | Find in workspace    |
-
+| Cmd + Option + [,]         | Toggle Code block Close/Open    |
+| Cmd + K + Cmd + 0        | Toggle All Code block Close    |
 ---
 
 ## 📁 VS Code – Explorer
