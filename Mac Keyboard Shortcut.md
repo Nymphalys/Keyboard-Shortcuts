@@ -54,6 +54,7 @@
 | Cmd + Shift + D         | Debug                |
 | Cmd + Shift + X         | Extensions           |
 | Cmd + F                 | Find in file         |
+| Select the word & Cmd + F| Find with the same slected portion         |
 | Cmd + Shift + F         | Find in workspace    |
 
 ---
