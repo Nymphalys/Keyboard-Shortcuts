@@ -201,6 +201,42 @@
 | C             | Captions        |
 | F             | Full screen     |
 | 0–9           | Jump to video % |
+| ↑ / ↓           | Increase / Dec Volume |
+
+## GoogleDocs
+
+| Shortcut                       | Action                      |
+| ------------------------------ | --------------------------- |
+| **— Text Size & Formatting —** |                             |
+| Cmd + Shift + ,                | Decrease font size          |
+| Cmd + Shift + .                | Increase font size          |
+| Cmd + ,                        | Subscript                   |
+| Cmd + .                        | Superscript                 |
+| Cmd + Shift + X                | Strikethrough selected text |
+| **— Alignment —**              |                             |
+| Cmd + Shift + L                | Align left                  |
+| Cmd + Shift + C                | Align center                |
+| Cmd + Shift + R                | Align right                 |
+| **— Headings —**               |                             |
+| Cmd + Option + 0               | Normal text                 |
+| Cmd + Option + 1               | Heading 1                   |
+| Cmd + Option + 2               | Heading 2                   |
+| Cmd + Option + 3               | Heading 3                   |
+| Cmd + Option + 4               | Heading 4                   |
+| Cmd + Option + 5               | Heading 5                   |
+| **— Indentation & Lists —**    |                             |
+| Cmd + [                        | Decrease indent             |
+| Cmd + ]                        | Increase indent             |
+| Tab                            | Indent list item            |
+| Shift + Tab                    | Outdent list item           |
+| **— Navigation & Editing —**   |                             |
+| Cmd + F                        | Find in document            |
+| Cmd + H                        | Find & replace              |
+| **— Insert & Layout —**        |                             |
+| Shift + F11                    | Insert tab                  |
+| Cmd + Enter                    | Page break                  |
+
+
 
 ---
 
