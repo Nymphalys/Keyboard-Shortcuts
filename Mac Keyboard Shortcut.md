@@ -1,4 +1,5 @@
 
+
 # ⌨️ Mac & VS Code Keyboard Shortcuts (Organized Cheat Sheet)
 
 ---
@@ -129,6 +130,9 @@
 | Shortcut           | Action        |
 | ------------------ | ------------- |
 | **— Window —**     |               |
+| Fn + Ctrl + -> / <- | Take Half of screen |
+| Fn + Ctrl + Shift + -> / <- | Arrange in Half of screen |
+| Fn + Ctrl + F -> / <- | Fill the screen |
 | Ctrl + Cmd + ↑ / ↓ | Resize VS terminal space |
 | Ctrl + Cmd + F     | Full screen   |
 | **— View —**       |               |
