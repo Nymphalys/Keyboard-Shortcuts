@@ -9,18 +9,18 @@
 | Shortcut               | Action                      |
 | ---------------------- | --------------------------- |
 | **— Open —**           |                             |
-| Cmd + N                | Open new window (most apps) |
-| Cmd + Shift + N        | New window (VS Code)        |
-| Cmd + T                | Open new tab / file         |
-| Cmd + N                | New file (VS Code)          |
+| <kbd>Cmd + N </kbd>               | Open new window (most apps) |
+| <kbd>Cmd + Shift + N</kbd>        | New window (VS Code)        |
+| <kbd>Cmd + T</kbd>                | Open new tab / file         |
+| <kbd>Cmd + N</kbd>                | New file (VS Code)          |
 | **— Close & Manage —** |                             |
-| Cmd + W                | Close current tab           |
-| Cmd + Shift + T        | Reopen closed tab           |
-| Cmd + Shift + W        | Close window                |
-| Cmd + Q                | Quit app                    |
-| Cmd + M                | Minimize window             |
-| Cmd + H                | Hide app                    |
-| Cmd + Option + H       | Hide all except current     |
+| <kbd>Cmd + W</kbd>                | Close current tab           |
+| <kbd>Cmd + Shift + T </kbd>       | Reopen closed tab           |
+| <kbd>Cmd + Shift + W</kbd>        | Close window                |
+| <kbd>Cmd + Q</kbd>                | Quit app                    |
+| <kbd>Cmd + M</kbd>                | Minimize window             |
+| <kbd>Cmd + H </kbd>               | Hide app                    |
+| <kbd>Cmd + Option + H </kbd>      | Hide all except current     |
 
 ---
 
@@ -29,13 +29,13 @@
 | Shortcut                        | Action                     |
 | ------------------------------- | -------------------------- |
 | **— App Navigation —**          |                            |
-| Cmd + Tab                       | Switch between apps        |
-| Cmd + Shift + Tab               | Reverse app switch         |
+| <kbd>Cmd + Tab</kbd>                       | Switch between apps        |
+| <kbd>Cmd + Shift + Tab</kbd>               | Reverse app switch         |
 | **— Tab & Window Navigation —** |                            |
-| Ctrl + Tab                      | Switch tabs in same app    |
-| Ctrl + Shift + Tab              | Reverse tab switch         |
-| Cmd + `                         | Switch windows of same app |
-| Cmd + Shift + `                 | Reverse window switch      |
+| <kbd>Ctrl + Tab</kbd>                      | Switch tabs in same app    |
+| <kbd>Ctrl + Shift + Tab</kbd>              | Reverse tab switch         |
+| <kbd>Cmd + ` </kbd>                        | Switch windows of same app |
+| <kbd>Cmd + Shift + ` </kbd>                | Reverse window switch      |
 
 ---
 
@@ -44,30 +44,30 @@
 | Shortcut                | Action               |
 | ----------------------- | -------------------- |
 | **— Command Palette —** |                      |
-| Cmd + P                 | Open command palette |
+| <kbd>Cmd + P </kbd>                | Open command palette |
 | `:`                     | Go to line           |
 | `@`                     | Go to symbol         |
 | `>`                     | VS Code commands     |
 | **— Panels —**          |                      |
-| Cmd + J                 | Toggle terminal      |
-| Cmd + B                 | Toggle sidebar       |
-| Cmd + Shift + E         | Explorer             |
-| Cmd + Shift + D         | Debug                |
-| Cmd + Shift + X         | Extensions           |
-| Cmd + F                 | Find in file         |
-| Select the word & Cmd + F| Find with the same slected portion         |
-| Cmd + Shift + F         | Find in workspace    |
-| Cmd + Option + [,]         | Toggle Code block Close/Open    |
-| Cmd + K + Cmd + 0        | Toggle All Code block Close    |
+| <kbd>Cmd + J </kbd>                | Toggle terminal      |
+| <kbd>Cmd + B </kbd>                | Toggle sidebar       |
+| <kbd>Cmd + Shift + E </kbd>        | Explorer             |
+| <kbd>Cmd + Shift + D </kbd>        | Debug                |
+| <kbd>Cmd + Shift + X  </kbd>       | Extensions           |
+| <kbd>Cmd + F  </kbd>               | Find in file         |
+| Select the word & <kbd>Cmd + F</kbd>| Find with the same slected portion         |
+| <kbd>Cmd + Shift + F </kbd>        | Find in workspace    |
+| <kbd>Cmd + Option + , </kbd>        | Toggle Code block Close/Open    |
+| <kbd>Cmd + K </kbd> + <kbd>Cmd + 0 </kbd>       | Toggle All Code block Close    |
 ---
 
 ## 📁 VS Code – Explorer
 
 | Shortcut     | Action             |
 | ------------ | ------------------ |
-| Cmd + ↓      | Open selected file |
-| Enter        | Rename file        |
-| Cmd + Delete | Delete file        |
+| <kbd>Cmd + ↓ </kbd>     | Open selected file |
+| <kbd>Enter</kbd>        | Rename file        |
+| <kbd>Cmd + Delete</kbd> | Delete file        |
 
 ---
 
@@ -76,20 +76,20 @@
 | Shortcut                | Action                 |
 | ----------------------- | ---------------------- |
 | **— Basic Editing —**   |                        |
-| Cmd + C / V / X         | Copy / Paste / Cut     |
-| Cmd + Z                 | Undo                   |
-| Shift + Cmd + Z         | Redo                   |
+| <kbd>Cmd + C</kbd> /<kbd> V </kbd>/ <kbd>X </kbd>        | Copy / Paste / Cut     |
+| <kbd>Cmd + Z</kbd>                 | Undo                   |
+| <kbd>Shift + Cmd + Z </kbd>        | Redo                   |
 | **— Cursor Movement —** |                        |
-| Cmd + ← / →             | Start / end of line    |
-| Option + ← / →          | Move word by word      |
+| <kbd> Cmd + ← / →   </kbd>          | Start / end of line    |
+| <kbd>Option + ← / →  </kbd>        | Move word by word      |
 | **— Line Control —**    |                        |
-| Option + ↑ / ↓          | Move line              |
-| Shift + Option + ↑ / ↓  | Move / duplicate block |
+| <kbd>Option + ↑ / ↓  </kbd>        | Move line              |
+| <kbd>Shift + Option + ↑ / ↓ </kbd> | Move / duplicate block |
 | **— Formatting —**      |                        |
-| Cmd + K                 | Insert link            |
-| Cmd + B                 | Bold                   |
-| Cmd + I                 | Italic                 |
-| Cmd + K → `format`      | Format document        |
+| <kbd>Cmd + K     </kbd>            | Insert link            |
+| <kbd>Cmd + B     </kbd>            | Bold                   |
+| <kbd>Cmd + I     </kbd>            | Italic                 |
+| <kbd>Cmd + K → `format` </kbd>     | Format document        |
 
 ---
 
@@ -98,19 +98,19 @@
 | Shortcut               | Action                           |
 | ---------------------- | -------------------------------- |
 | **— Selection —**      |                                  |
-| Cmd + A                | Select all                       |
-| Shift + ← / →          | Character selection              |
-| Shift + ↑ / ↓          | Line selection                   |
-| Shift + Option + ← / → | Word selection                   |
-| Shift + Cmd + ← / →    | Full line selection              |
-| Shift + Cmd + ↑ / ↓    | Select document above / below    |
-| Shift + Ctrl + →       | Select entire function (VS Code) |
+| <kbd>Cmd + A </kbd>               | Select all                       |
+| <kbd>Shift + ← / →  </kbd>        | Character selection              |
+| <kbd>Shift + ↑ / ↓ </kbd>         | Line selection                   |
+| <kbd>Shift + Option + ← / → </kbd>| Word selection                   |
+| <kbd>Shift + Cmd + ← / → </kbd>   | Full line selection              |
+| <kbd>Shift + Cmd + ↑ / ↓ </kbd>   | Select document above / below    |
+| <kbd>Shift + Ctrl + →   </kbd>    | Select entire function (VS Code) |
 | **— Multi-Cursor —**   |                                  |
-| Option + Click         | Add cursor                       |
-| Cmd + D                | Select next occurrence           |
-| Cmd + F2               | Select all occurrences           |
-| F2                     | Rename symbol                    |
-| Cmd + Click            | Go to definition                 |
+| <kbd>Option + Click </kbd>        | Add cursor                       |
+| <kbd>Cmd + D       </kbd>         | Select next occurrence           |
+| <kbd>Cmd + F2       </kbd>        | Select all occurrences           |
+| <kbd>F2             </kbd>        | Rename symbol                    |
+| <kbd>Cmd + Click    </kbd>        | Go to definition                 |
 
 ---
 
@@ -118,10 +118,10 @@
 
 | Shortcut       | Action           |
 | -------------- | ---------------- |
-| Fn + ↑ / ↓     | Page up / down   |
-| Cmd + ↑ / ↓    | Top / bottom     |
-| Option + ↑ / ↓ | Paragraph scroll |
-| ↑ / ↓          | Line scroll      |
+| <kbd>Fn + ↑ / ↓ </kbd>    | Page up / down   |
+| <kbd>Cmd + ↑ / ↓ </kbd>   | Top / bottom     |
+| <kbd>Option + ↑ / ↓ </kbd>| Paragraph scroll |
+| <kbd>↑ / ↓    </kbd>      | Line scroll      |
 
 ---
 
@@ -130,16 +130,16 @@
 | Shortcut           | Action        |
 | ------------------ | ------------- |
 | **— Window —**     |               |
-| Fn + Ctrl + -> / <- | Take Half of screen |
-| Fn + Ctrl + Shift + -> / <- | Arrange in Half of screen |
-| Fn + Ctrl + F -> / <- | Fill the screen |
-| Ctrl + Cmd + ↑ / ↓ | Resize VS terminal space |
-| Ctrl + Cmd + F     | Full screen   |
+| <kbd>Fn + Ctrl + -> / <- </kbd>| Take Half of screen |
+| <kbd>Fn + Ctrl + Shift + -> / <- </kbd>| Arrange in Half of screen |
+| <kbd>Fn + Ctrl + F -> / <- </kbd>| Fill the screen |
+| <kbd>Ctrl + Cmd + ↑ / ↓ </kbd>| Resize VS terminal space |
+| <kbd>Ctrl + Cmd + F   </kbd>  | Full screen   |
 | **— View —**       |               |
-| Cmd + + / -        | Zoom in / out |
-| Cmd + 0            | Reset zoom    |
-| Cmd + 0            | Focus sidebar |
-| Cmd + 1            | Focus editor  |
+| <kbd>Cmd</kbd> + <kbd>+ </kbd>/<kbd> -    </kbd>    | Zoom in / out |
+| <kbd>Cmd + 0       </kbd>     | Reset zoom    |
+| <kbd>Cmd + 0       </kbd>     | Focus sidebar |
+| <kbd>Cmd + 1       </kbd>     | Focus editor  |
 
 ---
 
@@ -147,7 +147,7 @@
 
 | Shortcut   | Action   |
 | ---------- | -------- |
-| Cmd + K, Z | Zen mode |
+| <kbd>Cmd + K, Z </kbd>| Zen mode |
 
 ---
 
@@ -155,7 +155,7 @@
 
 | Shortcut | Action         |
 | -------- | -------------- |
-| Cmd + K  | Clear terminal |
+| <kbd>Cmd + K </kbd> | Clear terminal |
 
 ---
 
@@ -164,16 +164,16 @@
 | Shortcut                | Action               |
 | ----------------------- | -------------------- |
 | **— Developer Tools —** |                      |
-| Cmd + Option + I        | DevTools             |
-| Cmd + Option + J        | Network tab          |
-| Cmd + Option + C        | Inspect element      |
-| Cmd + Option + U        | View source          |
+| <kbd>Cmd + Option + I </kbd>       | DevTools             |
+| <kbd>Cmd + Option + J  </kbd>      | Network tab          |
+| <kbd>Cmd + Option + C  </kbd>      | Inspect element      |
+| <kbd>Cmd + Option + U  </kbd>      | View source          |
 | **— Navigation —**      |                      |
-| Cmd + R                 | Reload               |
-| Cmd + Click             | Open link in new tab |
-| Cmd + <                 | Back                 |
-| Cmd + >                 | Forward              |
-| Cmd + L                 | Focus address bar    |
+| <kbd>Cmd + R    </kbd>             | Reload               |
+| <kbd>Cmd + Click   </kbd>          | Open link in new tab |
+| <kbd>Cmd + <   </kbd>              | Back                 |
+| <kbd>Cmd + >   </kbd>              | Forward              |
+| <kbd>Cmd + L   </kbd>              | Focus address bar    |
 
 ---
 
@@ -181,16 +181,16 @@
 
 | Shortcut             | Action                 |
 | -------------------- | ---------------------- |
-| Cmd + Space          | Spotlight search       |
-| Cmd + Shift + 3      | Screenshot (full)      |
-| Cmd + Shift + 4      | Screenshot (selection) |
-| Cmd + Shift + 5      | Screenshot toolbar     |
-| Cmd + S              | Save                   |
-| Cmd + Shift + S      | Save as                |
-| Cmd + O              | Open                   |
-| Cmd + Delete         | Delete file            |
-| Cmd + Shift + Delete | Empty trash            |
-| Cmd + ,              | App settings           |
+| <kbd>Cmd + Space  </kbd>        | Spotlight search       |
+| <kbd>Cmd + Shift + 3  </kbd>    | Screenshot (full)      |
+| <kbd>Cmd + Shift + 4  </kbd>    | Screenshot (selection) |
+| <kbd>Cmd + Shift + 5  </kbd>    | Screenshot toolbar     |
+| <kbd>Cmd + S        </kbd>      | Save                   |
+| <kbd>Cmd + Shift + S  </kbd>    | Save as                |
+| <kbd>Cmd + O         </kbd>     | Open                   |
+| <kbd>Cmd + Delete    </kbd>     | Delete file            |
+| <kbd>Cmd + Shift + Delete </kbd>| Empty trash            |
+| <kbd>Cmd + ,       </kbd>       | App settings           |
 
 ---
 
@@ -198,48 +198,48 @@
 
 | Shortcut      | Action          |
 | ------------- | --------------- |
-| M             | Mute            |
-| J             | Rewind 10s      |
-| K             | Play / Pause    |
-| L             | Forward 10s     |
-| Shift + < / > | Speed control   |
-| C             | Captions        |
-| F             | Full screen     |
-| 0–9           | Jump to video % |
-| ↑ / ↓           | Increase / Dec Volume |
+|<kbd> M  </kbd>           | Mute            |
+| <kbd>J   </kbd>          | Rewind 10s      |
+|<kbd> K   </kbd>          | Play / Pause    |
+| <kbd>L   </kbd>          | Forward 10s     |
+|<kbd> Shift + </kbd><kbd>< </kbd>/ <kbd>> </kbd>| Speed control   |
+|<kbd> C    </kbd>         | Captions        |
+|<kbd> F    </kbd>         | Full screen     |
+| <kbd>0–9   </kbd>        | Jump to video % |
+|<kbd> ↑ / ↓  </kbd>         | Increase / Dec Volume |
 
 ## GoogleDocs
 
 | Shortcut                       | Action                      |
 | ------------------------------ | --------------------------- |
 | **— Text Size & Formatting —** |                             |
-| Cmd + Shift + ,                | Decrease font size          |
-| Cmd + Shift + .                | Increase font size          |
-| Cmd + ,                        | Subscript                   |
-| Cmd + .                        | Superscript                 |
-| Cmd + Shift + X                | Strikethrough selected text |
+| <kbd>Cmd + Shift + ,  </kbd>              | Decrease font size          |
+| <kbd>Cmd + Shift + .  </kbd>              | Increase font size          |
+| <kbd>Cmd + ,       </kbd>                 | Subscript                   |
+| <kbd>Cmd + .       </kbd>                 | Superscript                 |
+| <kbd>Cmd + Shift + X  </kbd>              | Strikethrough selected text |
 | **— Alignment —**              |                             |
-| Cmd + Shift + L                | Align left                  |
-| Cmd + Shift + C                | Align center                |
-| Cmd + Shift + R                | Align right                 |
+| <kbd>Cmd + Shift + L   </kbd>             | Align left                  |
+| <kbd>Cmd + Shift + C  </kbd>              | Align center                |
+| <kbd>Cmd + Shift + R </kbd>               | Align right                 |
 | **— Headings —**               |                             |
-| Cmd + Option + 0               | Normal text                 |
-| Cmd + Option + 1               | Heading 1                   |
-| Cmd + Option + 2               | Heading 2                   |
-| Cmd + Option + 3               | Heading 3                   |
-| Cmd + Option + 4               | Heading 4                   |
-| Cmd + Option + 5               | Heading 5                   |
+| <kbd>Cmd + Option + 0  </kbd>             | Normal text                 |
+| <kbd>Cmd + Option + 1  </kbd>             | Heading 1                   |
+| <kbd>Cmd + Option + 2  </kbd>             | Heading 2                   |
+| <kbd>Cmd + Option + 3  </kbd>             | Heading 3                   |
+| <kbd>Cmd + Option + 4  </kbd>             | Heading 4                   |
+| <kbd>Cmd + Option + 5  </kbd>             | Heading 5                   |
 | **— Indentation & Lists —**    |                             |
-| Cmd + [                        | Decrease indent             |
-| Cmd + ]                        | Increase indent             |
-| Tab                            | Indent list item            |
-| Shift + Tab                    | Outdent list item           |
+| <kbd>Cmd + [   </kbd>                     | Decrease indent             |
+| <kbd>Cmd + ]  </kbd>                      | Increase indent             |
+| <kbd>Tab  </kbd>                          | Indent list item            |
+| <kbd>Shift + Tab   </kbd>                 | Outdent list item           |
 | **— Navigation & Editing —**   |                             |
-| Cmd + F                        | Find in document            |
-| Cmd + H                        | Find & replace              |
+| <kbd>Cmd + F   </kbd>                     | Find in document            |
+| <kbd>Cmd + H   </kbd>                     | Find & replace              |
 | **— Insert & Layout —**        |                             |
-| Shift + F11                    | Insert tab                  |
-| Cmd + Enter                    | Page break                  |
+| <kbd>Shift + F11  </kbd>                  | Insert tab                  |
+| <kbd>Cmd + Enter</kbd>                    | Page break                  |
 
 
 
